@@ -1,4 +1,7 @@
 {
-  "workbench.colorTheme": "freeCodeCamp Dark Theme",
-  "window.autoDetectColorScheme": false
+  "workbench.colorTheme": "Flate",
+  "window.autoDetectColorScheme": false,
+  "workbench.preferredDarkColorTheme": "Flate",
+  "workbench.preferredHighContrastColorTheme": "Flate",
+  "workbench.preferredHighContrastLightColorTheme": "Flate"
 }
